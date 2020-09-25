@@ -1,8 +1,8 @@
 # Master thesis template for writing with Sublime Text
 
-This project is based on [this thesis template](https://www.ntnu.no/wiki/display/ross/LaTeX+Template+for+Project+and+Master+Theses).
+This project is based on [this thesis template](https://www.ntnu.no/wiki/display/ross/LaTeX+Template+for+Project+and+Master+Theses). Sadly the link no longer works.
 
-You can import this project directly into sharelatex.com if you want, but I would highly recommend to use Sublime Text.
+You can import this project directly into overleaf.com if you want, but I would highly recommend to use a local text editor. 
 
 ## Requirements
 
