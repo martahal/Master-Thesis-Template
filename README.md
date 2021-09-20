@@ -47,8 +47,8 @@ LaTeXTools uses pre-releases to beta test new features and improve the stability
 * In Skim: go to Preferences->Sync and set ‘preset’ to SublimeText.
 
 ### For Ubuntu
-* [TexLive] (https://tug.org/texlive/), LaTex for Linux: 'sudo apt install texlive-full'
-* 'sudo tlmgr install latexmk'
+* [TexLive](https://tug.org/texlive/), LaTex for Linux: `sudo apt install texlive-full`
+* `sudo tlmgr install latexmk` 
 
 ## Usage (in Sublime, personally used Atom
 Open as a Sublime Project by opening the file `thesis.sublime-project`.
