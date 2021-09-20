@@ -46,7 +46,11 @@ LaTeXTools uses pre-releases to beta test new features and improve the stability
 * `sudo tlmgr install latexmk`
 * In Skim: go to Preferences->Sync and set ‘preset’ to SublimeText.
 
-## Usage
+### For Ubuntu
+* [TexLive] (https://tug.org/texlive/), LaTex for Linux: 'sudo apt install texlive-full'
+* 'sudo tlmgr install latexmk'
+
+## Usage (in Sublime, personally used Atom
 Open as a Sublime Project by opening the file `thesis.sublime-project`.
 
 By default, the document is in *draft* mode, which means info boxes with tips to writing will appear. This also makes compilation faster as it simplifies the document by not including figures, hyperrefs etc.
@@ -57,7 +61,7 @@ Add new chapters and sections in new files as you like, and import them in the m
 Put all figures in the `Figures/` folder. Figures in this directory can be included from any tex-file in the project using file name only, e.g. `\includegraphics{logo_ntnu)`. You can then hover over the file name to get a preview of the image.
 
 ## Key-bindings 
-### Here `C`denotes `ctrl` for windows / `cmd` for mac
+### Here `C`denotes `ctrl` for windows and ubuntu / `cmd` for mac
 | Description 			|	Key-binding 	| Tip  |
 |----------------------	|---------------	|------|
 | **Compile the PDF**	|	`C+b`			| Choose _PdfLaTex_ if prompted     |
